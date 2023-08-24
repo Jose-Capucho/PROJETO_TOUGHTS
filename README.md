@@ -1,8 +1,10 @@
 # PROJETO_TOUGHTS
 
-Este projeto de Aplicação Web Full Stack é o resultado direto do meu envolvimento em um curso especializado em Desenvolvimento Web, onde adquiri habilidades abrangentes na construção de aplicações modernas. 
+Este projeto de Aplicação Web Full Stack é o resultado direto do meu envolvimento em um curso abrangente de Desenvolvimento Web. 
 
-O projeto foi desenvolvido usando tecnologias-chave, incluindo Node.js, Express, MySQL, HTML, CSS e JavaScript, com foco em conceitos como API, RESTful, MVC e autenticação com Bcrypt.
+Durante o curso, pude aplicar um conjunto diversificado de tecnologias, incluindo Node.js, Express, MySQL, Handlebars, HTML, CSS e JavaScript, para construir uma aplicação completa. 
+
+O projeto demonstra minha capacidade de criar aplicações funcionais, escaláveis e interativas, incorporando conceitos como API RESTful, padrão MVC e autenticação com Bcrypt.
 
 ##
 
@@ -12,33 +14,34 @@ Criar uma aplicação para compartilhar pensamentos.
 
 # Tecnologias Utilizadas:
 
-- Node.js para a criação do backend robusto e eficiente.
-- Express.js para o desenvolvimento de uma API RESTful escalável.
-- Implementação do padrão MVC (Model-View-Controller) para organização do código.
-- Integração com o banco de dados MySQL usando Sequelize.
-- Uso de Bcrypt para segurança e criptografia de senhas.
+- Node.js como plataforma de backend.
+- Express.js para a criação de uma API RESTful eficiente.
+- Implementação do padrão MVC (Model-View-Controller) para organização estrutural.
+- Integração com o banco de dados MySQL utilizando sequelize e mysql2.
+- Uso do Handlebars como mecanismo de template para renderização dinâmica.
+- Bcrypt para segurança de senhas e autenticação.
 - HTML, CSS e JavaScript para a construção da interface e interatividade.
 
 ##
 
 # Recursos Implementados:
 
-- Criação de endpoints RESTful para manipulação de recursos.
-- Desenvolvimento de rotas para operações CRUD (Create, Read, Update, Delete).
-- Utilização do Sequelize para interagir com o banco de dados MySQL.
-- Implementação de autenticação de usuário usando Bcrypt para proteger senhas.
-- Construção de uma interface de usuário responsiva e amigável.
-- Utilização de técnicas de design e estilização com CSS para melhorar a aparência.
+- Criação de endpoints RESTful para gerenciamento de recursos.
+- Implementação de rotas para operações CRUD (Create, Read, Update, Delete).
+- Utilização do sequelize para mapear objetos para tabelas do banco de dados.
+- Desenvolvimento de autenticação de usuário com Bcrypt.
+- Construção de vistas dinâmicas usando o Handlebars para renderização de templates.
+- Aplicação de princípios de design responsivo e estilização com CSS.
 
 ##
 
 # Aprendizados:
 
-- Competência no desenvolvimento do lado do servidor com Node.js e Express.
+- Competência no desenvolvimento backend com Node.js e Express.
 - Experiência na criação de APIs RESTful para comunicação entre frontend e backend.
-- Habilidade na manipulação de bancos de dados MySQL usando Sequelize.
-- Conhecimento prático de segurança de senha com Bcrypt.
-- Proficiência na construção de interfaces atraentes e interativas usando HTML, CSS e JavaScript.
+- Proficiência na interação com bancos de dados MySQL usando sequelize.
+- Conhecimento prático na implementação de autenticação segura com Bcrypt.
+- Habilidade na criação de interfaces dinâmicas com Handlebars, HTML, CSS e JavaScript.
 
 ##
 
