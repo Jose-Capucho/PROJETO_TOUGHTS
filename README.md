@@ -12,7 +12,7 @@ O projeto demonstra minha capacidade de criar aplicações funcionais, escaláve
 
 Criar uma aplicação para compartilhar pensamentos.
 
-# Tecnologias Utilizadas:
+# Tecnologias utilizadas:
 
 - Node.js como plataforma de backend.
 - Express.js para a criação de uma API RESTful eficiente.
@@ -24,7 +24,7 @@ Criar uma aplicação para compartilhar pensamentos.
 
 ##
 
-# Recursos Implementados:
+# Recursos implementados:
 
 - Criação de endpoints RESTful para gerenciamento de recursos.
 - Implementação de rotas para operações CRUD (Create, Read, Update, Delete).
